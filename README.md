@@ -40,10 +40,6 @@
 
 ###
 
-<h2 align="left">Socials</h2>
-
-###
-
 <p align="left"></p>
 
 ###
