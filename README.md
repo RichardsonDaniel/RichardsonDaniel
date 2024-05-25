@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🌎  Based in the London<br>💼  CTO at Addie App Ltd</p>
+<p align="left">🌎  Based in the London/Tokyo<br>💼  Fulltime CTO at Jetpack, Fractional CTO at Addie App & Mindclass</p>
 
 ###
 
